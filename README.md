@@ -4,7 +4,7 @@ The goal of this project is to create a 6 degrees of freedom stewart platform mo
 
 Step 1 is to create a prototype of the motion simulator. Using servo motors, rods, HDPE sheets (High Density Polyethylene), arduino, etc, and a bit of wiring, the prototype below was built.
 
-![Image1](platform.png)
+![Image1](platform.JPG)
 
 Sources:  
   Two main outside source is listed below:  
