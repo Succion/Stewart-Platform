@@ -1,0 +1,26 @@
+Main
++ 8 servos https://www.amazon.com/gp/product/B07MFK266B/ref=crt_ewc_title_dp_6?ie=UTF8&psc=1&smid=A2QTZX14X1D97I
++ Servo Horns arm https://www.amazon.com/gp/product/B07P6LPRK3/ref=crt_ewc_title_dp_4?ie=UTF8&psc=1&smid=A3S8HDX1Z449C4
++ connecting rods https://www.amazon.com/gp/product/B01LXD5KPG/ref=crt_ewc_title_dp_7?ie=UTF8&psc=1&smid=A1THAZDOWP300U
++ Ball joints https://www.amazon.com/gp/product/B07Q2WPD2T/ref=crt_ewc_title_dp_8?ie=UTF8&psc=1&smid=A1THAZDOWP300U
++ HDPE Board x2 https://www.amazon.com/gp/product/B000ILJZN4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+Electric
++ Arduino Board https://www.amazon.com/gp/product/B008GRTSV6/ref=crt_ewc_title_dp_5?ie=UTF8&psc=1&smid=AA57DDZKZUZDL
++ Servo driver https://www.amazon.com/Onyehn-Channel-PCA9685-Arduino-Raspberry/dp/B07GJCPWW2/ref=zg_bs_306575011_5?_encoding=UTF8&psc=1&refRID=N0RXK1AAEDT7DCGJ8QDK
++ External PSU with DC female connector 5V 10A https://www.amazon.com/ALITOVE-Converter-100-240V-Transformer-5-5x2-5mm/dp/B0852HL336/ref=sr_1_2_sspa?dchild=1&keywords=5v+10+Amp+power+supply&qid=1609088511&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOUMwQktBUzczRDhNJmVuY3J5cHRlZElkPUEwNTYzMDAxMzdVNzVKQlBZU1dZWSZlbmNyeXB0ZWRBZElkPUEwNjUxMjQwMk9LN0NJMEM5REdPNSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
++ Jumper Wire https://www.amazon.com/gp/product/B01EV70C78/ref=crt_ewc_title_dp_1?ie=UTF8&psc=1&smid=A2WWHQ25ENKVJ1
++ Usb A to Usb B cable https://www.amazon.com/gp/product/B009GUNFSY/ref=crt_ewc_title_dp_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER
+ 
+Util
++ tools to cut board (Lowes)
++ drill (home)
++ tools for soldering and creation of PCB for connecting external power supply (home)
++ Protractor https://www.amazon.com/gp/product/B00006IB97/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
++ caliper https://www.amazon.com/gp/product/B07DFFYCXS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
++ Multimeter https://www.amazon.com/AstroAI-Digital-Multimeter-Voltage-Tester/dp/B01ISAMUA6/ref=psdc_14244471_t3_B086ZG5ZYK#
++ Tap bit https://www.amazon.com/gp/product/B0736T5NM6/ref=crt_ewc_title_dp_1?ie=UTF8&psc=1&smid=A2JBP2H9YMUEUF
+
+Important Link
+- general https://ouilogique.com/plateforme-de-stewart-esp32/
+- code and guide https://www.instructables.com/Arduino-controlled-Rotary-Stewart-Platform/
