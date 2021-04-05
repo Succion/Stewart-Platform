@@ -13,9 +13,9 @@ Electric
 + Usb A to Usb B cable https://www.amazon.com/gp/product/B009GUNFSY/ref=crt_ewc_title_dp_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER
  
 Util
-+ tools to cut board (Lowes)
-+ drill (home)
-+ tools for soldering and creation of PCB for connecting external power supply (home)
++ tools to cut board
++ drill
++ tools for soldering and creation of PCB for connecting external power supply
 + Protractor https://www.amazon.com/gp/product/B00006IB97/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
 + caliper https://www.amazon.com/gp/product/B07DFFYCXS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 + Multimeter https://www.amazon.com/AstroAI-Digital-Multimeter-Voltage-Tester/dp/B01ISAMUA6/ref=psdc_14244471_t3_B086ZG5ZYK#
