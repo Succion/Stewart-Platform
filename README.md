@@ -2,11 +2,9 @@
 
 The goal of this project is to create a 6 degrees of freedom stewart platform motion simulator for games like car race and flight sims.
 
-Step 1 is to create a prototype of the motion simulator. Using servo motors, rods, HDPE sheets (High Density Polyethylene), arduino, and a bit of wiring, the prototype below was built.
+Step 1 is to create a prototype of the motion simulator. Using servo motors, rods, HDPE sheets (High Density Polyethylene), arduino, etc, and a bit of wiring, the prototype below was built.
 
-![Image1](platform1.png)
-
-![Image2](platform2.png)
+![Image1](platform.png)
 
 Sources:  
   Two main outside source is listed below:  
