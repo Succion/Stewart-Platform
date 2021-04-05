@@ -6,7 +6,10 @@ Step 1 is to create a prototype of the motion simulator. Using servo motors, rod
 
 ![Image1](prototype.JPG)
 
-Two main outside source is listed below:  
+Two main outside source is listed below:
+
 Starter code for platform in pdf: https://www.mips-lab.net/Members/nsouch/plateforme-de-stewart/@@download/plans/Ardruino_6DOF_Motion_Platform_LoRes.pdf
 
 To implement the commandline interface:  https://create.arduino.cc/projecthub/mikefarr/simple-command-line-interface-4f0a3f
+
+Partlist is included in the directory.
