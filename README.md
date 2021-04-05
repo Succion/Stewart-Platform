@@ -4,7 +4,7 @@ The goal of this project is to create a 6 degrees of freedom stewart platform mo
 
 Step 1 is to create a prototype of the motion simulator. Using servo motors, rods, HDPE sheets (High Density Polyethylene), arduino, etc, and a bit of wiring, the prototype below was built.
 
-![Image1](./Stewart-Platform/platform.JPG)
+![Image1](prototype.JPG)
 
 Two main outside source is listed below:  
 Starter code for platform in pdf: https://www.mips-lab.net/Members/nsouch/plateforme-de-stewart/@@download/plans/Ardruino_6DOF_Motion_Platform_LoRes.pdf
